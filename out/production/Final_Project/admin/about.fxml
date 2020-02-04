@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="318.0" prefWidth="380.0" style="-fx-background-color: #FFFFFF;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Text fill="#f57c00" layoutX="63.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ACTIVITIES MANAGEMENT" textAlignment="CENTER">
+            <font>
+                <Font size="19.0" />
+            </font>
+        </Text>
+        <Text layoutX="82.0" layoutY="103.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Vertion 1.00" textAlignment="CENTER" />
+        <Text layoutX="82.0" layoutY="138.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Design and Created by :" />
+        <Text fill="#0091ea" layoutX="80.0" layoutY="175.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tuan Nguyen and Hai Vu">
+         <font>
+            <Font size="18.0" />
+         </font></Text>
+        <Text layoutX="85.0" layoutY="181.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+        <Separator layoutX="77.0" layoutY="149.0" prefHeight="2.0" prefWidth="205.0" />
+    </children>
+</AnchorPane>
